@@ -86,5 +86,6 @@ This project offers a unique perspective on the athletic demands across a wide v
 
 ---
 
-<img width="902" height="501" alt="image" src="https://github.com/user-attachments/assets/8a92d8e0-a702-4279-8c09-879511cba12e" />
+![report image](https://github.com/user-attachments/assets/597c58e8-abbb-444a-a0e1-61c849e0b96f)
+
 
